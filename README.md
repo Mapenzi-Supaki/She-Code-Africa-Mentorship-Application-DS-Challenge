@@ -1,6 +1,6 @@
 # SCAMP-Assessment
 
-Data Science Technical Assessment for She Code Africa Mentorship Program
+Data Science Technical Challenge for She Code Africa Mentorship Program
 
 Given the dataset and details to visualize using matplotlib or seaborn:
 
