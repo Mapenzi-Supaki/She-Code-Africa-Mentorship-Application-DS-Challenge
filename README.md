@@ -2,7 +2,7 @@
 
 Data Science Technical Challenge for She Code Africa Mentorship Program
 
-Given the dataset and details to visualize using matplotlib or seaborn:
+Given the amazon books dataset and details to visualize using matplotlib or seaborn:
 
     The best selling books of the decade.
 
